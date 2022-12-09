@@ -1,13 +1,16 @@
 body {
     font-family: 'Playfair Display', serif;
+    background-color: green;
+}
+section {
+  background-color: white;
 }
 
 #HeroSection {
     background-image: url(images/IMG_5690.jpg) ;
   background-color: #cccccc;
   background-size: cover;
-  height: 18rem
-;
+  height: 22rem
 }
 #headingcolor {
   color:white;
@@ -17,4 +20,7 @@ body {
   background-color: #e0e0e0;
 
   
+}
+#container {
+  background-color: white;
 }
